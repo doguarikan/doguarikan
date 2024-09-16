@@ -9,12 +9,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+
+
 <div style="display: flex; gap: 10px;">
-  <a href="https://leetcode.com/dogu_arikan">
-    <img src="https://leetcard.jacoblin.cool/dogu_arikan?theme=unicorn" alt="Leetcode Stats" />
-  </a>
-  <a href="https://github.com/doguarikan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doguarikan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/dogu_arikan?theme=unicorn" alt="Leetcode Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doguarikan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/doguarikan/doguarikan/output/snake.svg" alt="Snake animation" />
+
+###
