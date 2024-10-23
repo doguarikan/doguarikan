@@ -22,6 +22,4 @@
 <img src="https://raw.githubusercontent.com/doguarikan/doguarikan/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/doguarikan/count.svg?"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doguarikan&label=Profile%20views&color=0e75b6&style=flat" alt="doguarikan" /> </p>
